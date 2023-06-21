@@ -1,0 +1,43 @@
+body{
+    background-color: #343434;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+#title{
+    flex-direction: column;
+    line-height: 10px;
+    border-color: white;
+    border: solid;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 7.54px;
+}
+#title:hover{
+    color: green;
+}
+li{
+    display: inline-block;
+    margin: 30px;
+}
+
+h1{
+    font-weight: 900;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    color: green;
+    transition: 0.3s all;
+}
