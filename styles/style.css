@@ -33,3 +33,22 @@ a:hover{
     color: green;
     transition: 0.3s all;
 }
+main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+h2{
+    font-size: 45px;
+    line-height: 45px;
+}
+span{
+    color: green;
+}
+p{
+    line-height: 20px;
+    max-width: 500px;
+}
+img{
+    width: 500px;
+}
