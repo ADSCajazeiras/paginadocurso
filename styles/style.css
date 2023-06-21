@@ -39,16 +39,28 @@ main {
     margin-top: 50px;
 }
 h2{
-    font-size: 45px;
-    line-height: 45px;
+    font-size: 38.44px;
+    line-height: 20px;
 }
 span{
     color: green;
 }
 p{
-    line-height: 20px;
+    line-height: 30px;
+    font-size: 17.08px;
     max-width: 500px;
 }
 img{
-    width: 500px;
+    width: 600px;
+}
+#inscreva-se{
+    border: 3px;
+    border: solid;
+    border-radius: 20px;
+    color: #343434;
+    height: 50px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
