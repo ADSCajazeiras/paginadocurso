@@ -16,6 +16,14 @@ header{
 #title{
     flex-direction: column;
     line-height: 10px;
+    border-color: white;
+    border: solid;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 7.54px;
+}
+#title:hover{
+    color: green;
 }
 li{
     display: inline-block;
