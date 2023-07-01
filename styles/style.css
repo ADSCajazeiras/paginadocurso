@@ -119,12 +119,7 @@ img{
     color: #ffffff;
     background: #b3adac;
   }
-  .row.green {
-    background: #27ae60;
-  }
-  .row.blue {
-    background: #2980b9;
-  }
+  
   @media screen and (max-width: 580px) {
     .row {
       padding: 14px 0 7px;
