@@ -73,11 +73,7 @@ img{
     justify-content: center;
 }
 
-#area-disciplinas{
-    width: 920px;
-	margin: 0 auto;
-	padding: 15px;
-}
+
 
 #rodape {
 	clear: both;
@@ -85,16 +81,52 @@ img{
 	padding: 15px;
 }    
 
-.semestre {
+  /*
+**** Pagina formas de acesso ****
+*/
+
+ #principal{
+  width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+ }
+
+  #conteudo {
+    background: #464643;
     margin: 0 auto;
     padding: 20px;
     max-width: 800px;
     font-family: "Helvetica Neue", Helvetica, Arial;
   }
 
+  .explicação{
+    text-align: justify;
+    max-width: 800px;
+  }
+
+  .img-acesso {
+    height: 300px;
+    width: 600px;
+    border: 10px solid green;
+    margin: 70px;
+  }
+
   /*
 **** tabela ****
 */
+.semestre {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 800px;
+  font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+#area-disciplinas{
+  width: 920px;
+margin: 0 auto;
+padding: 15px;
+}
+
   .table {
     margin: 0 0 40px 0;
     width: 100%;
@@ -106,7 +138,6 @@ img{
       display: block;
     }
   }
-  
   .row {
     display: table-row;
     background: #f6f6f6;
