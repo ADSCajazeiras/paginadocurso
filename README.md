@@ -3,7 +3,7 @@
   <img src="imagens/4877367.png" alt="Logo" width="auto" height="300">
   <h1 align="center">Curso de ADS</h1>
   <p align="center">
-   Este repositório contém o projeto final da disciplina de Gerencia de Configurações e Mudanças. O site serve como ferramenta de suporte para treinar as funcionalidades do GIT.
+   Este repositório contém o projeto final da disciplina de Gerencia de Configurações e Mudanças. O site serve como ferramenta de suporte para treinar as funcionalidades do GIT. Reune informações e conteudos detalhados do Curso de Analise e Desenvolvimento de Sistemas fornecido pelo IFPB _Campus_ Cajazeiras, o site está disponivel através do link do [GitHub Pages](https://adscajazeiras.github.io/paginadocurso/)
   </p>
 </p>
 
@@ -13,10 +13,6 @@
 [![Github Issues](https://img.shields.io/github/issues/tiagoporto/accessibility-buttons.svg)](https://github.com/ADSCajazeiras/paginadocurso/issues)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
-## Como utilizar
-
-Informações mais detalhadas sobre como e quando utilizar as funcionalidades da aplicação, como fazer configurações personalizadas e demais observações importantes relacionadas a esse contexto.
 
 ## Como contribuir
 
@@ -42,4 +38,6 @@ Forneça instruções para que as pessoas saibam como contribuir para o projeto.
     ### Utilitários
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-
+  
+### Desenvolvido por
+Enéias Raul e Edmar Filho
